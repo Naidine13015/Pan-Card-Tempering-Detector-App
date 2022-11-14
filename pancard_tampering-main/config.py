@@ -12,7 +12,7 @@ class Config(object):
     # Set a secret key
     SECRET_KEY = "naidine13015"
 
-    UPLOADS = "app/app/static/uploads"
+    UPLOADS = #"app/app/static/uploads"
 
     SESSION_COOKIE_SECURE = True
     DEFAULT_THEME = None
